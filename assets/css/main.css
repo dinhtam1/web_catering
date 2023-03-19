@@ -61,9 +61,9 @@ hr {
 
 .slide-img {
     /* margin-top: 54.5px; */
-    max-width: 100%;
+    width: 100%;
     height: auto;
-
+    opacity: 0.8;
 }
 
 .slide-label {
@@ -77,7 +77,7 @@ hr {
 .slide-label__content {
     font-size: 3.6rem;
     font-weight: 300;
-    color: #58595c;
+    color: #fff;
     letter-spacing: 5px;
 }
 
